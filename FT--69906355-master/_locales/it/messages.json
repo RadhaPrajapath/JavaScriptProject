@@ -1,0 +1,38 @@
+{
+   "FREE_TRIAL": {
+      "description": "Free version",
+      "message": "PROVA GRATUITA"
+   },
+   "FREE_TRIAL_EXPIRED": {
+      "description": "Free version expired",
+      "message": "Versione gratuita scaduta"
+   },
+   "FULL": {
+      "description": "Full version",
+      "message": "COMPLETA"
+   },
+   "Free": {
+      "description": "Free verison",
+      "message": "Gratuito"
+   },
+   "appDesc": {
+      "description": "The 132 char description of the application, displayed in the web store.",
+      "message": "Usa Riconoscimento vocale per compilare qualsiasi modulo e dettare l'e-mail con sintesi vocale. Controlla Internet con comandi vocali personalizzati!"
+   },
+   "appName": {
+      "description": "The title of the application, displayed in the web store.",
+      "message": "Riconoscimento vocale ovunque"
+   },
+   "chrome_pages_error": {
+      "message": "NOTA: Google non consente alle estensioni di Chrome di funzionare su pagine \u003Cb>chrome://\u003C/ b> speciali o sul Chrome Webstore, ad esempio la pagina nell'ultima scheda."
+   },
+   "chrome_runtime_error": {
+      "message": ". NOTA: è necessario ricaricare la pagina Web in cui si stava tentando di utilizzare il riconoscimento vocale prima che questa estensione possa funzionare su di essa."
+   },
+   "network_error": {
+      "message": "Reinstallare Chrome o eseguire un Chrome \u003Ca href='https://support.google.com/chrome/answer/3296214'> Reimposta \u003C/a> può aiutare a correggere questo errore."
+   },
+   "speech_recognition_error": {
+      "message": "Rilevato errore di riconoscimento vocale: "
+   }
+}

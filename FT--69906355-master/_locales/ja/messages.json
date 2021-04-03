@@ -1,0 +1,38 @@
+{
+   "FREE_TRIAL": {
+      "description": "Free version",
+      "message": "無料トライアル"
+   },
+   "FREE_TRIAL_EXPIRED": {
+      "description": "Free version expired",
+      "message": "無料試用期限切れ"
+   },
+   "FULL": {
+      "description": "Full version",
+      "message": "完了"
+   },
+   "Free": {
+      "description": "Free verison",
+      "message": "無料"
+   },
+   "appDesc": {
+      "description": "The 132 char description of the application, displayed in the web store.",
+      "message": "音声認識を使用して任意のフォームに記入し、電子メールに音声をテキストに指示する。インターネットをカスタム音声コマンドで制御する！"
+   },
+   "appName": {
+      "description": "The title of the application, displayed in the web store.",
+      "message": "どこでも音声認識"
+   },
+   "chrome_pages_error": {
+      "message": "注：Chrome拡張機能は特別な\u003Cb>chrome：//\u003C/b>ページやChromeウェブストアで最後のタブのページなどには使用できません。"
+   },
+   "chrome_runtime_error": {
+      "message": "。注：この拡張機能が動作するには、音声認識を使用しようとしていたWebページをリロードする必要があります。"
+   },
+   "network_error": {
+      "message": "Chromeを\u003Ca href='https://support.google.com/chrome/answer/3296214'>リセット\u003C/a>すると、このエラーを解決できます。"
+   },
+   "speech_recognition_error": {
+      "message": "音声認識エラーが検出されました："
+   }
+}

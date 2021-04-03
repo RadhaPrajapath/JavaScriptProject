@@ -1,0 +1,38 @@
+{
+   "FREE_TRIAL": {
+      "description": "Free version",
+      "message": "PRUEBA GRATUITA"
+   },
+   "FREE_TRIAL_EXPIRED": {
+      "description": "Free version expired",
+      "message": "PRUEBA GRATUITA EXPIRADA"
+   },
+   "FULL": {
+      "description": "Full version",
+      "message": "COMPLETO"
+   },
+   "Free": {
+      "description": "Free version",
+      "message": "Gratis"
+   },
+   "appDesc": {
+      "description": "The description of the application, displayed in the web store.",
+      "message": "Use el reconocimiento de voz para completar cualquier formulario en la web con voz a texto. Controla Internet con comandos de voz!"
+   },
+   "appName": {
+      "description": "The title of the application, displayed in the web store.",
+      "message": "Reconocimiento de voz en cualquier lugar"
+   },
+   "chrome_pages_error": {
+      "message": "NOTA: Google no permite que las extensiones de Chrome funcionen en paginas especiales \u003Cb>chrome://\u003C/b> ni en Chrome Webstore, como la página en la ultima pestana."
+   },
+   "chrome_runtime_error": {
+      "message": ". NOTA: debe volver a cargar la pagina web en la que intentaba utilizar el reconocimiento de voz antes de que esta extension funcione en ella."
+   },
+   "network_error": {
+      "message": "Reinstalar Chrome o hacer un Chrome \u003Ca href='https://support.google.com/chrome/answer/3296214'> Restablecer \u003C/a> puede ayudar a solucionar este error."
+   },
+   "speech_recognition_error": {
+      "message": "Error de reconocimiento de voz detectado: "
+   }
+}

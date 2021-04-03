@@ -1,0 +1,38 @@
+{
+   "FREE_TRIAL": {
+      "description": "Free version",
+      "message": "KOSTENLOSE VERSUCHE"
+   },
+   "FREE_TRIAL_EXPIRED": {
+      "description": "Free version expired",
+      "message": "KOSTENLOSE VERSUCHE ABGELAUFEN"
+   },
+   "FULL": {
+      "description": "Full version",
+      "message": "VOLL"
+   },
+   "Free": {
+      "description": "Free version",
+      "message": "Frei"
+   },
+   "appDesc": {
+      "description": "The description of the application, displayed in the web store.",
+      "message": "Verwenden Sie die Spracherkennung, um jedes Formular im Web mit Ihrer Stimme auszufüllen! Steuern Sie das Internet mit Ihrer Stimme!"
+   },
+   "appName": {
+      "description": "The title of the application, displayed in the web store.",
+      "message": "Spracherkennung Allerorts"
+   },
+   "chrome_pages_error": {
+      "message": "HINWEIS: Google lässt Chrome-Erweiterungen nicht auf speziellen \u003Cb>chrome://\u003C/ b> Seiten oder im Chrome Webstore wie der Seite auf der letzten Registerkarte zu."
+   },
+   "chrome_runtime_error": {
+      "message": ". HINWEIS: Sie müssen die Webseite, auf der Sie die Spracherkennung verwenden wollten, neu laden, bevor diese Erweiterung funktioniert."
+   },
+   "network_error": {
+      "message": "Chrome neu installieren oder Chrome \u003Ca href='https://support.google.com/chrome/answer/3296214'> Zurücksetzen \u003C/a> durchführen, kann helfen, diesen Fehler zu beheben."
+   },
+   "speech_recognition_error": {
+      "message": "Spracherkennungsfehler erkannt: "
+   }
+}

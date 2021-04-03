@@ -1,0 +1,38 @@
+{
+   "FREE_TRIAL": {
+      "description": "Free version",
+      "message": "ESSAI GRATUIT"
+   },
+   "FREE_TRIAL_EXPIRED": {
+      "description": "Free version expired",
+      "message": "ESSAI GRATUIT EXPIRÉ"
+   },
+   "FULL": {
+      "description": "Full version",
+      "message": "Complet"
+   },
+   "Free": {
+      "description": "Free verison",
+      "message": "Gratuit"
+   },
+   "appDesc": {
+      "description": "The 132 char description of the application, displayed in the web store.",
+      "message": "Utilisez la reconnaissance vocale pour remplir n'importe quel formulaire et dicter le courrier électronique avec la parole au texte. Contrôlez Internet avec des commandes vocales personnalisées!"
+   },
+   "appName": {
+      "description": "The title of the application, displayed in the web store.",
+      "message": "Reconnaissance de la parole"
+   },
+   "chrome_pages_error": {
+      "message": "REMARQUE: Google n'autorise pas les extensions Chrome à fonctionner sur des pages \u003Cb>chrome://\u003C/ b> spéciales ou sur le magasin Web Chrome, tel que la page du dernier onglet."
+   },
+   "chrome_runtime_error": {
+      "message": ". REMARQUE: vous devez recharger la page Web sur laquelle vous essayez d’utiliser la reconnaissance vocale avant que cette extension ne fonctionne."
+   },
+   "network_error": {
+      "message": "La réinstallation de Chrome ou la réalisation d'une \u003Ca href='https://support.google.com/chrome/answer/3296214'>réinitialisation Google Chrome\u003C/a> peut aider à corriger cette erreur."
+   },
+   "speech_recognition_error": {
+      "message": "Erreur de reconnaissance vocale détectée: "
+   }
+}
